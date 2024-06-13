@@ -1,5 +1,3 @@
-using System;
-
 namespace IOReimagined;
 
 public static class Output
